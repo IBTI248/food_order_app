@@ -2,7 +2,7 @@
 
 **Food Order App** is a user-friendly mobile application designed to simplify the food ordering and delivery process. With this app, users can securely log into their accounts, browse a diverse menu of delicious food options, and place orders directly to their preferred location.
 
-![food_app](https://github.com/dineshxo/food_order_app_flutter_firebase/assets/95670930/4fa93755-f5f6-4c44-878d-f57ed70c1332)
+
 
 ## 🚀 Features
 
